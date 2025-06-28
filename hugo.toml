@@ -1,0 +1,13 @@
+
+baseURL = "https://vineetloomba.com/"
+languageCode = "en-us"
+title = "Math LMS"
+theme = "ananke"
+
+[params]
+  description = "IIT JEE Math Video Portal"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
